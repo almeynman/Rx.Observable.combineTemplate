@@ -1,6 +1,6 @@
 {
   "name": "rx.observable.combine-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RxJS alternative to Bacon's combineTemplate",
   "main": "dist/combineTemplate.dist.js",
   "scripts": {

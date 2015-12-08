@@ -7,13 +7,13 @@ Generate values  based on the Observable and object template. Similar to [`Bacon
 ### Install
 
 ```bash
-npm install --save Rx.Observable.combinetemplate
+npm install --save rx.observable.combine-template
 ```
 
 ### Basics
 
 ```javascript
-import combineTemplate from 'Rx.Observable.combinetemplate';
+import combineTemplate from 'rx.observable.combine-template';
 import * as Rx from 'rx';
 
 let subject1 = new Rx.Subject();
